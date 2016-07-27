@@ -1,0 +1,22 @@
+{
+  "name": "kazuaki.heroku",
+  "version": "0.0.0",
+  "description": kazuaki.heroku",
+  "main": "index.js",
+  "engines": {
+    "node": "6"
+  },
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "LightSpeedC/kazuaki.heroku"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "author": "LightSpeedC",
+  "license": "MIT"
+}
