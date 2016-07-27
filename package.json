@@ -1,7 +1,7 @@
 {
   "name": "kazuaki.heroku",
   "version": "0.0.0",
-  "description": kazuaki.heroku",
+  "description": "kazuaki.heroku",
   "main": "index.js",
   "engines": {
     "node": "6"
