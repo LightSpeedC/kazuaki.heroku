@@ -4,7 +4,7 @@
   "description": "kazuaki.heroku",
   "main": "index.js",
   "engines": {
-    "node": "6"
+    "node": "7"
   },
   "scripts": {
     "start": "node index",
@@ -18,5 +18,9 @@
     "heroku"
   ],
   "author": "LightSpeedC",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LightSpeedC/kazuaki.heroku/issues"
+  },
+  "homepage": "https://github.com/LightSpeedC/kazuaki.heroku#readme"
 }
